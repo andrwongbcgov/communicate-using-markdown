@@ -26,3 +26,6 @@ Initialized empty Git repository in /Users/fenago/Projects/recipe-repository/.gi
 
 - bullet 1
 - bullet 2
+
+### More Cats
+ ![More Cats!](https://github.com/andrwongbcgov/communicate-using-markdown/blob/main/yaktocat.png)
