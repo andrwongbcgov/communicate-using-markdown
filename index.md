@@ -14,3 +14,15 @@
 $ git init
 Initialized empty Git repository in /Users/fenago/Projects/recipe-repository/.git/
 ```
+
+### Lists
+
+- [x] list 1
+- [ ] list 2
+- [ ] list 3
+- [ ] list 4
+
+### Bullets
+
+- bullet 1
+- bullet 2
