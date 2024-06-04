@@ -5,4 +5,12 @@
 ##### H5 HEADER
 ###### H6 HEADER
 
-### ![Lightning Bolt!](https://m.media-amazon.com/images/I/31ivT7FNGqL._AC_.jpg)
+### Lightning Bolt
+ ![Lightning Bolt!](https://m.media-amazon.com/images/I/31ivT7FNGqL._AC_.jpg)
+
+
+### Code snippet
+```
+$ git init
+Initialized empty Git repository in /Users/fenago/Projects/recipe-repository/.git/
+```
